@@ -1,0 +1,6 @@
+{
+  "name": "RAR Archiver",
+  "description": "Powerful RAR and ZIP archiver and file manager for Android",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
